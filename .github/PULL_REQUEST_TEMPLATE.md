@@ -15,6 +15,8 @@
 - [ ] Good [coding practices](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/) are met.
 ### Deployment Notes (OPTIONAL)
 - [ ]
+
 *After Merging*: Please make sure to:
 - Update JIRA tickets
+
 ## Screenshots (If Any)
